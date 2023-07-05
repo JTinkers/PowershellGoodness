@@ -1,0 +1,9 @@
+{
+    "packages":
+    [
+        {
+            "include": "MediatR",
+            "version": "12.0.0"
+        }
+    ]
+}
